@@ -64,3 +64,13 @@ Copy the provided link and paste it in the browser. Enjoy the project
 ## Grade-Sheet Excel File Data Format
 In "Some Demo Grade-Sheet Files" Folder some files are given as sample of grade-sheet data.
 You can use these files for testing the project.
+
+
+## How to run the project again later?
+You don't need to resetup for later use. Just follow these command
+
+```
+v_env\Scripts\activate
+```
+```
+flask --debug run
