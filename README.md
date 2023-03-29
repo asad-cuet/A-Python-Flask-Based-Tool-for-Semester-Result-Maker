@@ -78,5 +78,7 @@ flask --debug run
 
 ## Some Screenshot
 
-![Screenshot](scrrenshot/demo_1.jpg)
+<p align="center">
+  <img src="https://github.com/asad-cuet/A-Python-Flask-Based-Tool-for-Semester-Result-Maker/blob/main/screenshot/demo_1.jpg" width="350" title="hover text">
+</p>
 
