@@ -14,16 +14,16 @@ Open cmd in the created folder path and run below command
 3.
 Clone this project:
 ```
-git clone https://github.com/asad-cuet/A-Python-Based-Tool-for-Semester-Attendance-Analysis.git
+git clone https://github.com/asad-cuet/A-Python-Flask-Based-Tool-for-Semester-Result-Maker.git
 ```
 
 4.
 ```
-cd A-Python-Based-Tool-for-Semester-Attendance-Analysis
+cd A-Python-Flask-Based-Tool-for-Semester-Result-Maker
 ```
 
 5.
-Install Python
+Install Python if not installed
 
 6.
 Install virtual environment and create a environment
@@ -61,6 +61,6 @@ flask --debug run
 ```
 Copy the provided link and paste it in the browser. Enjoy the project
 
-## Attendance Excel File Data Format
-In "Some Demo Attendance Files" Folder some files are given as sample of attendance data.
+## Grade-Sheet Excel File Data Format
+In "Some Demo Grade-Sheet Files" Folder some files are given as sample of grade-sheet data.
 You can use these files for testing the project.
