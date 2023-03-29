@@ -74,3 +74,9 @@ v_env\Scripts\activate
 ```
 ```
 flask --debug run
+```
+
+## Some Screenshot
+
+![Screenshot](scrrenshot/demo_1.jpg)
+
